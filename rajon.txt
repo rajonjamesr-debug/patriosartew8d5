@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>how to cook buttered shrimp, tortang talong, pastil</title>
+<h1>Adding Recipe Information Using Description Lists
+</h1>
+
+</head>
+<body>
+
+<h3>i will teach you how to cook the buttered shrimp</h3>
+<ul>
+<li>Rinsing the shrimp in cold water. Many traditional Filipino buttered shrimp recipes leave the shell and head on for extra flavor, only trimming the antennae and sharp legs with kitchen shears.
+<li> Peeling & Deveining (5–10 minutes): If your recipe requires peeled shrimp, pulling off the shells and extracting the vein (using a toothpick or knife) is the most tedious part. Buying pre-peeled and deveined shrimp drops this task down to 0 minutes.
+<li> Chopping & Measuring (3–5 minutes): Mincing a generous amount of fresh garlic (usually 5+ cloves or a whole bulb) and finely chopping fresh parsley or green onions for the garnish.
+<li>Marinating (Optional: 10–60 minutes): Many popular variations marinate the shrimp in lemon-lime soda (like Sprite or 7-Up) for 10 to 30 minutes (sometimes up to an hour) to add a distinct sweetness and keep the meat plump.
+</ul>
+
+</body>
+</html>
+
+
